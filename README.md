@@ -1,1 +1,1 @@
-# backroung-generatior
+# backroung-generator
