@@ -1,0 +1,28 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/captain-rocket/background-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/captain-rocket/background-generator/issues"
+  },
+  "homepage": "https://github.com/captain-rocket/background-generator#readme"
+}
+dependencies": {
+    "lodash": {
+  "version": "4.17.15",
+}
+}
