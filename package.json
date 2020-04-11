@@ -21,8 +21,3 @@
   },
   "homepage": "https://github.com/captain-rocket/background-generator#readme"
 }
-dependencies": {
-    "lodash": {
-  "version": "4.17.15",
-}
-}
